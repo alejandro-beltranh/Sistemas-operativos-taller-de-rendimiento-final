@@ -1,0 +1,331 @@
+valor
+       41 
+       36 
+       37 
+       30 
+       31 
+       38 
+       31 
+       41 
+       34 
+       31 
+       30 
+       35 
+       39 
+       35 
+       38 
+       42 
+       36 
+       36 
+       41 
+       30 
+       35 
+       31 
+       33 
+       37 
+       37 
+       32 
+       32 
+       31 
+       30 
+       28 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       34 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       39 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       40 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       42 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       35 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       34 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       35 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       35 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       41 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       31 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       42 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       39 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       33 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       38 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       34 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       39 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       39 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       32 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       33 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       52 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       36 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       36 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       38 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       38 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       36 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       34 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       34 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       30 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       34 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
+Matriz A:
+1.82 1.36 
+5.03 7.30 
+Matriz B:
+9.30 7.83 
+2.41 9.06 
+       36 µs
+Matriz C (Resultado):
+0.00 0.00 
+0.00 0.00 
